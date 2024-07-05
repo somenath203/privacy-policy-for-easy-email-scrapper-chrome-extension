@@ -1,6 +1,6 @@
-# Privacy Policy for TextSearch Chrome Extension
+# Privacy Policy for Easy Email Scrapper Chrome Extension
 
-This is the privacy policy of the chrome extension **TextSearch** which you can check by clicking here: https://github.com/somenath203/TextSearch-Chrome-Extension
+This is the privacy policy of the chrome extension **Easy Email Scrapper** 
 
 ## Link to Privacy Policy
 https://somenath203.github.io/privacy-policy-for-easy-email-scrapper-chrome-extension/
